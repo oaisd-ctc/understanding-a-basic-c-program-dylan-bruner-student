@@ -1,0 +1,2 @@
+1. If the values need to be reused, also it helps with readability
+2. It's the process of joining strings, but i use the other thingy cause string concatanation that long sucks
